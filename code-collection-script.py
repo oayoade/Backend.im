@@ -7,7 +7,7 @@ import json
 
 # Gitea Server Configuration
 GITEA_API_URL = "http://localhost:3000/api/v1"
-GITEA_ACCESS_TOKEN = "c43e7712079dec3a97f99a2c04653e7f0f479347"  # Change this to your Gitea token
+GITEA_ACCESS_TOKEN = "**"  # Change this to your Gitea token
 BRANCH_NAME = "main"
 
 # WebSocket Configuration
