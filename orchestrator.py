@@ -11,7 +11,7 @@ docker_client = docker.from_env()
 
 # AWS Configuration
 AWS_REGION = "us-east-1"  # Change to your AWS region
-AWS_ACCOUNT_ID = "132088440811"  # Change to your AWS account ID
+AWS_ACCOUNT_ID = ")**"  # Change to your AWS account ID
 ECR_REGISTRY = f"132088440811.dkr.ecr.us-east-1.amazonaws.com"
 
 # Kubernetes (EKS) Configuration
